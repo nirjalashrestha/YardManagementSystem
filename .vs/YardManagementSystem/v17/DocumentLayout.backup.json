@@ -1,0 +1,2341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\models\\aiassistantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\models\\aiassistantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\models\\dock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\models\\dock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\controllers\\assistantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\controllers\\assistantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\controllers\\gateactivitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\controllers\\gateactivitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\gateactivitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\gateactivitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\wwwroot\\uploads\\users\\usr-20260108-945_3c9dc513f538427bae33ef827deca589.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\wwwroot\\uploads\\users\\usr-20260108-945_3c9dc513f538427bae33ef827deca589.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\wwwroot\\uploads\\users\\usr-20260101-398_e371de80c2a04a1081c794eb67c02030.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\wwwroot\\uploads\\users\\usr-20260101-398_e371de80c2a04a1081c794eb67c02030.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\wwwroot\\uploads\\users\\usr-20260101-147_57de3d1d4fb1423b94c30d3d3fe7121b.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\wwwroot\\uploads\\users\\usr-20260101-147_57de3d1d4fb1423b94c30d3d3fe7121b.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\facilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\facilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\controllers\\facilitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\controllers\\facilitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\models\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\models\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\models\\applicationusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\models\\applicationusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\yardcheckdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\yardcheckdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\controllers\\yardcheckscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\controllers\\yardcheckscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\models\\rbacroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\models\\rbacroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\models\\parkingassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\models\\parkingassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\models\\parkingslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\models\\parkingslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\models\\trailertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\models\\trailertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\models\\usernotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\models\\usernotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260215144249_AddUserNotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YardManagementSystem\\Migrations\\20260215144249_AddUserNotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260215142330_AddUserNotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YardManagementSystem\\Migrations\\20260215142330_AddUserNotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\controllers\\yardmovescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\controllers\\yardmovescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260214184418_CookieAuthAndProfileUpdates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YardManagementSystem\\Migrations\\20260214184418_CookieAuthAndProfileUpdates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\controllers\\dockassignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\controllers\\dockassignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\controllers\\carriercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\controllers\\carriercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\models\\yardcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\models\\yardcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\yardmovedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\yardmovedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\models\\yardmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\models\\yardmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\controllers\\parkingassignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\controllers\\parkingassignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\controllers\\parkingslotscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\controllers\\parkingslotscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\parkingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\parkingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\dockassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\dockassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\models\\departure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\models\\departure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\models\\arrival.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\models\\arrival.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\controllers\\goodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\controllers\\goodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260214102716_AddWeightQuantityToGoods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YardManagementSystem\\Migrations\\20260214102716_AddWeightQuantityToGoods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\gooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\gooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\models\\good.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\models\\good.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\controllers\\dockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\controllers\\dockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260209081213_addtrailertypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260209081213_addtrailertypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\dockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\dockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\models\\dockassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\models\\dockassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\vehicleupsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\vehicleupsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\controllers\\trailertypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\controllers\\trailertypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\trailertypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\trailertypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\verifyemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\verifyemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\models\\carrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\models\\carrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\controllers\\gatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\controllers\\gatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\pagedresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\pagedresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\models\\gate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\models\\gate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\gatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\gatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260130080626_AddLastLoginUtc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YardManagementSystem\\Migrations\\20260130080626_AddLastLoginUtc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\carrierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\carrierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\models\\inspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\models\\inspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260106142535_initgateactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260106142535_initgateactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260113153352_FixAddGateActivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YardManagementSystem\\Migrations\\20260113153352_FixAddGateActivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260113143733_ArrivalSchema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YardManagementSystem\\Migrations\\20260113143733_ArrivalSchema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260113093007_ArrivalsSchema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YardManagementSystem\\Migrations\\20260113093007_ArrivalsSchema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\inspectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\inspectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\controllers\\inspectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\controllers\\inspectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108102237_RecreateVehiclesTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YardManagementSystem\\Migrations\\20260108102237_RecreateVehiclesTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108094748_CreateVehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YardManagementSystem\\Migrations\\20260108094748_CreateVehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108091141_CreateVehiclesTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YardManagementSystem\\Migrations\\20260108091141_CreateVehiclesTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108090207_CreateVehiclesTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YardManagementSystem\\Migrations\\20260108090207_CreateVehiclesTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108081058_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YardManagementSystem\\Migrations\\20260108081058_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108051914_AddTrailerNumberToYardMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YardManagementSystem\\Migrations\\20260108051914_AddTrailerNumberToYardMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260106053637_InitFacilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YardManagementSystem\\Migrations\\20260106053637_InitFacilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260106052547_CreateFacilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YardManagementSystem\\Migrations\\20260106052547_CreateFacilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260106051130_CreateFacilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YardManagementSystem\\Migrations\\20260106051130_CreateFacilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260106050324_CreateFacilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YardManagementSystem\\Migrations\\20260106050324_CreateFacilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260105163058_InitFacilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YardManagementSystem\\Migrations\\20260105163058_InitFacilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260102055942_FixVehicleColumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YardManagementSystem\\Migrations\\20260102055942_FixVehicleColumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\userupsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\userupsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\services\\publicidgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\services\\publicidgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\yardmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\yardmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20251229112020_initialidentitysetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20251229112020_initialidentitysetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\driverphotouplod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\driverphotouplod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\drivercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\drivercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\confirmemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\confirmemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\dtos\\driverupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\dtos\\driverupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20251216074251_addemailotpfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20251216074251_addemailotpfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20251215141700_identityinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20251215141700_identityinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20251217123028_addemailverificationfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20251217123028_addemailverificationfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20251221155524_adddrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20251221155524_adddrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20251226125939_addvehiclephoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20251226125939_addvehiclephoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20251226124721_fixvehicledriverfk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20251226124721_fixvehicledriverfk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20251225061442_adddriverstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20251225061442_adddriverstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260102055228_updatevehicleschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260102055228_updatevehicleschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260102053952_updatevehiclecolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260102053952_updatevehiclecolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260102051711_updatevehicletrailerfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260102051711_updatevehicletrailerfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260114135637_fixaddgateactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260114135637_fixaddgateactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260109072717_addgateactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260109072717_addgateactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260108154655_addinspectionstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260108154655_addinspectionstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260108105502_addyardmoves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260108105502_addyardmoves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260108101822_createvehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260108101822_createvehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260108084120_addbusinesstables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260108084120_addbusinesstables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260108083801_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260108083801_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260108080322_fixyardmovebackend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260108080322_fixyardmovebackend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260107093738_updatevehicleusetrailernumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260107093738_updatevehicleusetrailernumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260107071317_addyardmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260107071317_addyardmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260106062408_createcarriers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260106062408_createcarriers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260106072627_addlocationstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260106072627_addlocationstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260106053935_initfacilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260106053935_initfacilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260102060419_rebuildvehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260102060419_rebuildvehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260129191521_adddeparturetrailertypedrivername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260129191521_adddeparturetrailertypedrivername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260202163341_addgatetableandconstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260202163341_addgatetableandconstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260203132006_addusersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260203132006_addusersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260209071333_addvehiclefacilitystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260209071333_addvehiclefacilitystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260205180141_addarrivalcarrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260205180141_addarrivalcarrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260214131136_addyardmovefeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260214131136_addyardmovefeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260214122838_addparkingslotandassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260214122838_addparkingslotandassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260214110550_addgoodstoarrivalanddeparture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260214110550_addgoodstoarrivalanddeparture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260214093012_adddocksanddockassignments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260214093012_adddocksanddockassignments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260214102947_addweightquantitytogoods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260214102947_addweightquantitytogoods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260214100556_addgoodsmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260214100556_addgoodsmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260214175835_initidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260214175835_initidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260214164834_updatelocationtypetogateandinspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260214164834_updatelocationtypetogateandinspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260214162033_updateyardcheckfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260214162033_updateyardcheckfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260215180643_addregisterfirstlastphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260215180643_addregisterfirstlastphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260215171945_fixyardcheckcreatedbylogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260215171945_fixyardcheckcreatedbylogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|c:\\users\\acer\\yms\\yardmanagementsystem\\yardmanagementsystem\\migrations\\20260215145803_addusernotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B10D0D-16A4-4E49-9D30-C28C73012412}|YardManagementSystem\\YardManagementSystem.csproj|solutionrelative:yardmanagementsystem\\migrations\\20260215145803_addusernotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GateActivityDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\GateActivityDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\GateActivityDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\GateActivityDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\GateActivityDto.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAywL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T07:22:05.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AiAssistantService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\AiAssistantService.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Models\\AiAssistantService.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\AiAssistantService.cs",
+              "RelativeToolTip": "YardManagementSystem\\Models\\AiAssistantService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T06:15:03.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "YardManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\appsettings.json",
+              "RelativeToolTip": "YardManagementSystem\\appsettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-15T13:36:26.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "USR-20260108-945_3c9dc513f538427bae33ef827deca589.png - PNG [740x1056, 8 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\wwwroot\\uploads\\users\\USR-20260108-945_3c9dc513f538427bae33ef827deca589.png",
+              "RelativeDocumentMoniker": "YardManagementSystem\\wwwroot\\uploads\\users\\USR-20260108-945_3c9dc513f538427bae33ef827deca589.png",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\wwwroot\\uploads\\users\\USR-20260108-945_3c9dc513f538427bae33ef827deca589.png - PNG [740x1056, 8 bit, PNG]",
+              "RelativeToolTip": "YardManagementSystem\\wwwroot\\uploads\\users\\USR-20260108-945_3c9dc513f538427bae33ef827deca589.png - PNG [740x1056, 8 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-17T06:36:47.676Z",
+              "EditorCaption": " - PNG [740x1056, 8 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "USR-20260101-398_e371de80c2a04a1081c794eb67c02030.png - PNG [740x494, 8 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\wwwroot\\uploads\\users\\USR-20260101-398_e371de80c2a04a1081c794eb67c02030.png",
+              "RelativeDocumentMoniker": "YardManagementSystem\\wwwroot\\uploads\\users\\USR-20260101-398_e371de80c2a04a1081c794eb67c02030.png",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\wwwroot\\uploads\\users\\USR-20260101-398_e371de80c2a04a1081c794eb67c02030.png - PNG [740x494, 8 bit, PNG]",
+              "RelativeToolTip": "YardManagementSystem\\wwwroot\\uploads\\users\\USR-20260101-398_e371de80c2a04a1081c794eb67c02030.png - PNG [740x494, 8 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-17T06:36:45.885Z",
+              "EditorCaption": " - PNG [740x494, 8 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Program.cs",
+              "RelativeToolTip": "YardManagementSystem\\Program.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAuwOcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T13:56:47.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssistantController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\AssistantController.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Controllers\\AssistantController.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\AssistantController.cs",
+              "RelativeToolTip": "YardManagementSystem\\Controllers\\AssistantController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T06:16:11.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "YardManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T13:55:10.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dock.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\Dock.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Models\\Dock.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\Dock.cs",
+              "RelativeToolTip": "YardManagementSystem\\Models\\Dock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T08:27:27.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Facility.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\Facility.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Models\\Facility.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\Facility.cs",
+              "RelativeToolTip": "YardManagementSystem\\Models\\Facility.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T16:17:35.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GateActivityController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\GateActivityController.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Controllers\\GateActivityController.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\GateActivityController.cs",
+              "RelativeToolTip": "YardManagementSystem\\Controllers\\GateActivityController.cs",
+              "ViewState": "AgIAALcCAAAAAAAAAAAAANcCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T07:04:17.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 142,
+              "Title": "20260215180643_AddRegisterFirstLastPhone.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260215180643_AddRegisterFirstLastPhone.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260215180643_AddRegisterFirstLastPhone.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260215180643_AddRegisterFirstLastPhone.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260215180643_AddRegisterFirstLastPhone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T18:06:44.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "USR-20260101-147_57de3d1d4fb1423b94c30d3d3fe7121b.png - PNG [740x494, 8 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\wwwroot\\uploads\\users\\USR-20260101-147_57de3d1d4fb1423b94c30d3d3fe7121b.png",
+              "RelativeDocumentMoniker": "YardManagementSystem\\wwwroot\\uploads\\users\\USR-20260101-147_57de3d1d4fb1423b94c30d3d3fe7121b.png",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\wwwroot\\uploads\\users\\USR-20260101-147_57de3d1d4fb1423b94c30d3d3fe7121b.png - PNG [740x494, 8 bit, PNG]",
+              "RelativeToolTip": "YardManagementSystem\\wwwroot\\uploads\\users\\USR-20260101-147_57de3d1d4fb1423b94c30d3d3fe7121b.png - PNG [740x494, 8 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-17T06:36:43.729Z",
+              "EditorCaption": " - PNG [740x494, 8 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "YardChecksController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\YardChecksController.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Controllers\\YardChecksController.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\YardChecksController.cs",
+              "RelativeToolTip": "YardManagementSystem\\Controllers\\YardChecksController.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAuwOkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T11:12:34.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FacilityDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\FacilityDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\FacilityDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\FacilityDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\FacilityDto.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwBsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:29:23.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "YardManagementSystem\\Controllers\\UserController.cs",
+              "ViewState": "AgIAANMBAAAAAAAAAAAuwOEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T10:17:35.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FacilitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\FacilitiesController.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Controllers\\FacilitiesController.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\FacilitiesController.cs",
+              "RelativeToolTip": "YardManagementSystem\\Controllers\\FacilitiesController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAuwKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T16:21:57.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T14:08:18.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "YardManagementSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEwBAAAAAAAAAAAuwFoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T14:15:09.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ParkingAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\ParkingAssignment.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Models\\ParkingAssignment.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\ParkingAssignment.cs",
+              "RelativeToolTip": "YardManagementSystem\\Models\\ParkingAssignment.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T12:23:41.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "YardCheckDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\YardCheckDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\YardCheckDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\YardCheckDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\YardCheckDto.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA2wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T11:10:17.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 143,
+              "Title": "20260215171945_FixYardCheckCreatedByLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260215171945_FixYardCheckCreatedByLogic.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260215171945_FixYardCheckCreatedByLogic.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260215171945_FixYardCheckCreatedByLogic.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260215171945_FixYardCheckCreatedByLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T17:19:46.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationUsers.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\ApplicationUsers.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Models\\ApplicationUsers.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\ApplicationUsers.cs",
+              "RelativeToolTip": "YardManagementSystem\\Models\\ApplicationUsers.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T19:11:17.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Models\\Location.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\Location.cs",
+              "RelativeToolTip": "YardManagementSystem\\Models\\Location.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:18:46.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ParkingSlot.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\ParkingSlot.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Models\\ParkingSlot.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\ParkingSlot.cs",
+              "RelativeToolTip": "YardManagementSystem\\Models\\ParkingSlot.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA+wCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T12:23:02.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RbacRoles.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\RbacRoles.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Models\\RbacRoles.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\RbacRoles.cs",
+              "RelativeToolTip": "YardManagementSystem\\Models\\RbacRoles.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T16:17:58.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TrailerType.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\TrailerType.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Models\\TrailerType.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\TrailerType.cs",
+              "RelativeToolTip": "YardManagementSystem\\Models\\TrailerType.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA+wBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T07:00:28.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 144,
+              "Title": "20260215145803_AddUserNotifications.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260215145803_AddUserNotifications.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260215145803_AddUserNotifications.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260215145803_AddUserNotifications.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260215145803_AddUserNotifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T14:58:04.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "YardManagementSystem\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAswGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T14:16:40.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NotificationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\NotificationDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\NotificationDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\NotificationDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\NotificationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T14:15:23.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Services\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Services\\NotificationService.cs",
+              "RelativeToolTip": "YardManagementSystem\\Services\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T14:16:04.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserNotification.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\UserNotification.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Models\\UserNotification.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\UserNotification.cs",
+              "RelativeToolTip": "YardManagementSystem\\Models\\UserNotification.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T14:14:24.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20260215144249_AddUserNotifications.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260215144249_AddUserNotifications.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260215144249_AddUserNotifications.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260215144249_AddUserNotifications.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260215144249_AddUserNotifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T14:42:50.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20260215142330_AddUserNotifications.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260215142330_AddUserNotifications.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260215142330_AddUserNotifications.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260215142330_AddUserNotifications.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260215142330_AddUserNotifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T14:23:30.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CarrierController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\CarrierController.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Controllers\\CarrierController.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\CarrierController.cs",
+              "RelativeToolTip": "YardManagementSystem\\Controllers\\CarrierController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAuwKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:21:57.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "YardManagementSystem\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAuwKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:03:30.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "YardMovesController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\YardMovesController.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Controllers\\YardMovesController.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\YardMovesController.cs",
+              "RelativeToolTip": "YardManagementSystem\\Controllers\\YardMovesController.cs",
+              "ViewState": "AgIAAEsBAAAAAAAAAAAuwFABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:09:32.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Controllers\\SettingsController.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\SettingsController.cs",
+              "RelativeToolTip": "YardManagementSystem\\Controllers\\SettingsController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:04:10.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\ProfileDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\ProfileDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\ProfileDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\ProfileDto.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:02:50.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T14:12:03.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20260214184418_CookieAuthAndProfileUpdates.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260214184418_CookieAuthAndProfileUpdates.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260214184418_CookieAuthAndProfileUpdates.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260214184418_CookieAuthAndProfileUpdates.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260214184418_CookieAuthAndProfileUpdates.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T18:44:19.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LocationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\LocationDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\LocationDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\LocationDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\LocationDto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:20:36.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "YardCheck.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\YardCheck.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Models\\YardCheck.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\YardCheck.cs",
+              "RelativeToolTip": "YardManagementSystem\\Models\\YardCheck.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T11:08:42.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 139,
+              "Title": "20260214175835_InitIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260214175835_InitIdentity.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260214175835_InitIdentity.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260214175835_InitIdentity.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260214175835_InitIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T17:58:35.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DockAssignmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\DockAssignmentsController.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Controllers\\DockAssignmentsController.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\DockAssignmentsController.cs",
+              "RelativeToolTip": "YardManagementSystem\\Controllers\\DockAssignmentsController.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAAAPcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T08:33:18.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 140,
+              "Title": "20260214164834_UpdateLocationTypeToGateAndInspection.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260214164834_UpdateLocationTypeToGateAndInspection.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260214164834_UpdateLocationTypeToGateAndInspection.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260214164834_UpdateLocationTypeToGateAndInspection.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260214164834_UpdateLocationTypeToGateAndInspection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T16:48:34.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 141,
+              "Title": "20260214162033_UpdateYardCheckFields.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260214162033_UpdateYardCheckFields.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260214162033_UpdateYardCheckFields.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260214162033_UpdateYardCheckFields.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260214162033_UpdateYardCheckFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T16:20:33.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LocationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\LocationsController.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Controllers\\LocationsController.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\LocationsController.cs",
+              "RelativeToolTip": "YardManagementSystem\\Controllers\\LocationsController.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAALwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:25:07.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "YardMoveDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\YardMoveDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\YardMoveDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\YardMoveDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\YardMoveDto.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:59:41.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "YardMove.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\YardMove.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Models\\YardMove.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\YardMove.cs",
+              "RelativeToolTip": "YardManagementSystem\\Models\\YardMove.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:57:53.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GoodsController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\GoodsController.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Controllers\\GoodsController.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\GoodsController.cs",
+              "RelativeToolTip": "YardManagementSystem\\Controllers\\GoodsController.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAowNAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T10:03:47.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "20260214131136_AddYardMoveFeature.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260214131136_AddYardMoveFeature.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260214131136_AddYardMoveFeature.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260214131136_AddYardMoveFeature.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260214131136_AddYardMoveFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T13:11:36.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "20260214122838_AddParkingSlotAndAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260214122838_AddParkingSlotAndAssignment.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260214122838_AddParkingSlotAndAssignment.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260214122838_AddParkingSlotAndAssignment.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260214122838_AddParkingSlotAndAssignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T12:28:39.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ParkingDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\ParkingDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\ParkingDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\ParkingDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\ParkingDto.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAuwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T12:24:20.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ParkingSlotsController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\ParkingSlotsController.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Controllers\\ParkingSlotsController.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\ParkingSlotsController.cs",
+              "RelativeToolTip": "YardManagementSystem\\Controllers\\ParkingSlotsController.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAuwMoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T12:26:30.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ParkingAssignmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\ParkingAssignmentsController.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Controllers\\ParkingAssignmentsController.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\ParkingAssignmentsController.cs",
+              "RelativeToolTip": "YardManagementSystem\\Controllers\\ParkingAssignmentsController.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAuwOIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T12:27:20.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DockAssignmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\DockAssignmentDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\DockAssignmentDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\DockAssignmentDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\DockAssignmentDto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA6wBQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T08:30:04.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Arrival.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\Arrival.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Models\\Arrival.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\Arrival.cs",
+              "RelativeToolTip": "YardManagementSystem\\Models\\Arrival.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAuwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:50:03.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Carrier.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\Carrier.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Models\\Carrier.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\Carrier.cs",
+              "RelativeToolTip": "YardManagementSystem\\Models\\Carrier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:18:57.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "20260214110550_AddGoodsToArrivalAndDeparture.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260214110550_AddGoodsToArrivalAndDeparture.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260214110550_AddGoodsToArrivalAndDeparture.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260214110550_AddGoodsToArrivalAndDeparture.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260214110550_AddGoodsToArrivalAndDeparture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T11:05:50.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "20260214093012_AddDocksAndDockAssignments.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260214093012_AddDocksAndDockAssignments.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260214093012_AddDocksAndDockAssignments.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260214093012_AddDocksAndDockAssignments.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260214093012_AddDocksAndDockAssignments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T09:30:12.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Good.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\Good.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Models\\Good.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\Good.cs",
+              "RelativeToolTip": "YardManagementSystem\\Models\\Good.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T10:02:35.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GoodDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\GoodDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\GoodDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\GoodDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\GoodDto.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T10:03:04.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "20260214102947_AddWeightQuantityToGoods.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260214102947_AddWeightQuantityToGoods.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260214102947_AddWeightQuantityToGoods.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260214102947_AddWeightQuantityToGoods.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260214102947_AddWeightQuantityToGoods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T10:29:47.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Departure.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\Departure.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Models\\Departure.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\Departure.cs",
+              "RelativeToolTip": "YardManagementSystem\\Models\\Departure.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:51:09.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "20260214100556_AddGoodsModule.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260214100556_AddGoodsModule.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260214100556_AddGoodsModule.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260214100556_AddGoodsModule.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260214100556_AddGoodsModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T10:05:56.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20260214102716_AddWeightQuantityToGoods.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260214102716_AddWeightQuantityToGoods.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260214102716_AddWeightQuantityToGoods.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260214102716_AddWeightQuantityToGoods.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260214102716_AddWeightQuantityToGoods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T10:27:16.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DocksController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\DocksController.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Controllers\\DocksController.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\DocksController.cs",
+              "RelativeToolTip": "YardManagementSystem\\Controllers\\DocksController.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAowP4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:04:11.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20260209081213_AddTrailerTypes.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260209081213_AddTrailerTypes.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260209081213_AddTrailerTypes.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260209081213_AddTrailerTypes.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260209081213_AddTrailerTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T08:12:13.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DockAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\DockAssignment.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Models\\DockAssignment.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\DockAssignment.cs",
+              "RelativeToolTip": "YardManagementSystem\\Models\\DockAssignment.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T08:28:30.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DockDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\DockDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\DockDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\DockDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\DockDto.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T08:29:22.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "YardManagementSystem\\Controllers\\VehicleController.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAuwM0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:53:14.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "TrailerTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\TrailerTypesController.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Controllers\\TrailerTypesController.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\TrailerTypesController.cs",
+              "RelativeToolTip": "YardManagementSystem\\Controllers\\TrailerTypesController.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAuwJ4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T07:02:00.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "VehicleUpsertDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\VehicleUpsertDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\VehicleUpsertDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\VehicleUpsertDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\VehicleUpsertDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T18:10:40.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\Vehicle.cs",
+              "RelativeToolTip": "YardManagementSystem\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:29:33.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "TrailerTypeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\TrailerTypeDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\TrailerTypeDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\TrailerTypeDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\TrailerTypeDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T07:01:18.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "20260209071333_AddVehicleFacilityStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260209071333_AddVehicleFacilityStatus.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260209071333_AddVehicleFacilityStatus.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260209071333_AddVehicleFacilityStatus.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260209071333_AddVehicleFacilityStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T07:13:34.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "20260205180141_AddArrivalCarrier.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260205180141_AddArrivalCarrier.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260205180141_AddArrivalCarrier.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260205180141_AddArrivalCarrier.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260205180141_AddArrivalCarrier.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T18:01:42.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "VerifyEmailDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\VerifyEmailDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\VerifyEmailDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\VerifyEmailDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\VerifyEmailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T07:52:43.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "20260203132006_AddUserSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260203132006_AddUserSettings.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260203132006_AddUserSettings.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260203132006_AddUserSettings.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260203132006_AddUserSettings.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:20:07.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "20260202163341_AddGateTableAndConstraints.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260202163341_AddGateTableAndConstraints.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260202163341_AddGateTableAndConstraints.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260202163341_AddGateTableAndConstraints.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260202163341_AddGateTableAndConstraints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:33:41.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20260130080626_AddLastLoginUtc.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260130080626_AddLastLoginUtc.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260130080626_AddLastLoginUtc.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260130080626_AddLastLoginUtc.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260130080626_AddLastLoginUtc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T08:06:27.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "GateController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\GateController.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Controllers\\GateController.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\GateController.cs",
+              "RelativeToolTip": "YardManagementSystem\\Controllers\\GateController.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAuwPsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T15:23:35.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Gate.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\Gate.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Models\\Gate.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\Gate.cs",
+              "RelativeToolTip": "YardManagementSystem\\Models\\Gate.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T15:21:13.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "GateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\GateDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\GateDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\GateDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\GateDto.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T15:22:22.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "PagedResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\PagedResultDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\PagedResultDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\PagedResultDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\PagedResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:20:57.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "20260129191521_AddDepartureTrailerTypeDriverName.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260129191521_AddDepartureTrailerTypeDriverName.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260129191521_AddDepartureTrailerTypeDriverName.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260129191521_AddDepartureTrailerTypeDriverName.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260129191521_AddDepartureTrailerTypeDriverName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T19:15:21.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CarrierDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\CarrierDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\CarrierDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\CarrierDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\CarrierDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:21:05.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Inspection.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\Inspection.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Models\\Inspection.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Models\\Inspection.cs",
+              "RelativeToolTip": "YardManagementSystem\\Models\\Inspection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T15:40:47.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "20260114135637_FixAddGateActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260114135637_FixAddGateActivity.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260114135637_FixAddGateActivity.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260114135637_FixAddGateActivity.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260114135637_FixAddGateActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T13:56:37.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20260106142535_InitGateActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260106142535_InitGateActivity.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260106142535_InitGateActivity.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260106142535_InitGateActivity.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260106142535_InitGateActivity.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:25:36.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20260113143733_ArrivalSchema.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260113143733_ArrivalSchema.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260113143733_ArrivalSchema.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260113143733_ArrivalSchema.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260113143733_ArrivalSchema.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T14:37:34.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20260113093007_ArrivalsSchema.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260113093007_ArrivalsSchema.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260113093007_ArrivalsSchema.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260113093007_ArrivalsSchema.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260113093007_ArrivalsSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T09:30:08.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20260113153352_FixAddGateActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260113153352_FixAddGateActivity.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260113153352_FixAddGateActivity.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260113153352_FixAddGateActivity.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260113153352_FixAddGateActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T15:33:52.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "InspectionDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\InspectionDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\InspectionDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\InspectionDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\InspectionDto.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA4wDQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T15:42:10.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "DriverController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\DriverController.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Controllers\\DriverController.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\DriverController.cs",
+              "RelativeToolTip": "YardManagementSystem\\Controllers\\DriverController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMUAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T16:00:43.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "20260109072717_AddGateActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260109072717_AddGateActivity.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260109072717_AddGateActivity.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260109072717_AddGateActivity.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260109072717_AddGateActivity.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T07:27:17.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "20260108154655_AddInspectionsTable.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108154655_AddInspectionsTable.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260108154655_AddInspectionsTable.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108154655_AddInspectionsTable.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260108154655_AddInspectionsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T15:46:55.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "InspectionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\InspectionsController.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Controllers\\InspectionsController.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\InspectionsController.cs",
+              "RelativeToolTip": "YardManagementSystem\\Controllers\\InspectionsController.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAAALUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T15:44:07.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "20260108105502_AddYardMoves.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108105502_AddYardMoves.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260108105502_AddYardMoves.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108105502_AddYardMoves.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260108105502_AddYardMoves.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T10:55:03.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20260108102237_RecreateVehiclesTable.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108102237_RecreateVehiclesTable.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260108102237_RecreateVehiclesTable.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108102237_RecreateVehiclesTable.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260108102237_RecreateVehiclesTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T10:22:38.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20260108091141_CreateVehiclesTable.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108091141_CreateVehiclesTable.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260108091141_CreateVehiclesTable.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108091141_CreateVehiclesTable.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260108091141_CreateVehiclesTable.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T09:11:41.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "20260108101822_CreateVehicles.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108101822_CreateVehicles.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260108101822_CreateVehicles.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108101822_CreateVehicles.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260108101822_CreateVehicles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T10:18:23.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20260108094748_CreateVehicles.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108094748_CreateVehicles.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260108094748_CreateVehicles.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108094748_CreateVehicles.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260108094748_CreateVehicles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T09:47:48.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "20260108081058_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108081058_InitialCreate.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260108081058_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108081058_InitialCreate.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260108081058_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:11:00.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20260108090207_CreateVehiclesTable.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108090207_CreateVehiclesTable.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260108090207_CreateVehiclesTable.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108090207_CreateVehiclesTable.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260108090207_CreateVehiclesTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T09:02:07.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "20260108084120_AddBusinessTables.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108084120_AddBusinessTables.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260108084120_AddBusinessTables.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108084120_AddBusinessTables.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260108084120_AddBusinessTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:41:22.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "20260108083801_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108083801_InitialCreate.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260108083801_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108083801_InitialCreate.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260108083801_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:38:01.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "20260108080322_FixYardMoveBackend.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108080322_FixYardMoveBackend.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260108080322_FixYardMoveBackend.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108080322_FixYardMoveBackend.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260108080322_FixYardMoveBackend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:03:22.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "20260108051914_AddTrailerNumberToYardMove.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108051914_AddTrailerNumberToYardMove.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260108051914_AddTrailerNumberToYardMove.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260108051914_AddTrailerNumberToYardMove.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260108051914_AddTrailerNumberToYardMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:19:15.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "20260107093738_UpdateVehicleUseTrailerNumber.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260107093738_UpdateVehicleUseTrailerNumber.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260107093738_UpdateVehicleUseTrailerNumber.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260107093738_UpdateVehicleUseTrailerNumber.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260107093738_UpdateVehicleUseTrailerNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T09:37:39.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "20260107071317_AddYardMove.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260107071317_AddYardMove.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260107071317_AddYardMove.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260107071317_AddYardMove.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260107071317_AddYardMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T07:13:18.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "20260106062408_CreateCarriers.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260106062408_CreateCarriers.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260106062408_CreateCarriers.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260106062408_CreateCarriers.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260106062408_CreateCarriers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:24:08.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "20260106050324_CreateFacilities.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260106050324_CreateFacilities.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260106050324_CreateFacilities.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260106050324_CreateFacilities.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260106050324_CreateFacilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:03:25.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "20260106072627_AddLocationsTable.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260106072627_AddLocationsTable.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260106072627_AddLocationsTable.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260106072627_AddLocationsTable.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260106072627_AddLocationsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:26:27.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "20260106051130_CreateFacilities.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260106051130_CreateFacilities.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260106051130_CreateFacilities.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260106051130_CreateFacilities.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260106051130_CreateFacilities.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:11:31.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "20260106053935_InitFacilities.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260106053935_InitFacilities.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260106053935_InitFacilities.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260106053935_InitFacilities.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260106053935_InitFacilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:39:35.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "20260106052547_CreateFacilities.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260106052547_CreateFacilities.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260106052547_CreateFacilities.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260106052547_CreateFacilities.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260106052547_CreateFacilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:25:48.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "20260106053637_InitFacilities.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260106053637_InitFacilities.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260106053637_InitFacilities.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260106053637_InitFacilities.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260106053637_InitFacilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:36:37.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\ChangePasswordDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\ChangePasswordDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T14:22:02.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "YardManagementSystem\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:08:39.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "PublicIdGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Services\\PublicIdGenerator.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Services\\PublicIdGenerator.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Services\\PublicIdGenerator.cs",
+              "RelativeToolTip": "YardManagementSystem\\Services\\PublicIdGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T14:02:24.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "20260105163058_InitFacilities.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260105163058_InitFacilities.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260105163058_InitFacilities.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260105163058_InitFacilities.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260105163058_InitFacilities.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T16:30:59.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "UserUpsertDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\UserUpsertDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\UserUpsertDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\UserUpsertDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\UserUpsertDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAywA8AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T13:49:58.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "20260102060419_RebuildVehicles.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260102060419_RebuildVehicles.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260102060419_RebuildVehicles.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260102060419_RebuildVehicles.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260102060419_RebuildVehicles.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T06:04:19.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "20260102055942_FixVehicleColumns.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260102055942_FixVehicleColumns.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260102055942_FixVehicleColumns.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260102055942_FixVehicleColumns.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260102055942_FixVehicleColumns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T05:59:42.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "20260102055228_UpdateVehicleSchema.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260102055228_UpdateVehicleSchema.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260102055228_UpdateVehicleSchema.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260102055228_UpdateVehicleSchema.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260102055228_UpdateVehicleSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T05:52:28.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "20260102053952_UpdateVehicleColumns.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260102053952_UpdateVehicleColumns.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260102053952_UpdateVehicleColumns.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260102053952_UpdateVehicleColumns.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260102053952_UpdateVehicleColumns.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T05:39:52.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "20260102051711_UpdateVehicleTrailerFields.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260102051711_UpdateVehicleTrailerFields.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20260102051711_UpdateVehicleTrailerFields.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20260102051711_UpdateVehicleTrailerFields.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20260102051711_UpdateVehicleTrailerFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T05:17:12.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "ResetPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\ResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\ResetPasswordDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\ResetPasswordDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\ResetPasswordDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T14:23:57.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\UpdateUserDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T13:50:23.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "YardManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\YardManagementSystem.csproj",
+              "RelativeDocumentMoniker": "YardManagementSystem\\YardManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\YardManagementSystem.csproj",
+              "RelativeToolTip": "YardManagementSystem\\YardManagementSystem.csproj",
+              "ViewState": "AgIAABIAAADgWFkr1FkZwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-15T13:46:10.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Services\\EmailSender.cs",
+              "RelativeToolTip": "YardManagementSystem\\Services\\EmailSender.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T06:07:28.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "20251229112020_InitialIdentitySetup.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20251229112020_InitialIdentitySetup.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20251229112020_InitialIdentitySetup.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20251229112020_InitialIdentitySetup.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20251229112020_InitialIdentitySetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:20:21.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "DriverPhotoUplod.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\DriverPhotoUplod.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\DriverPhotoUplod.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\DriverPhotoUplod.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\DriverPhotoUplod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T13:57:43.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "DriverCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\DriverCreateDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\DriverCreateDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\DriverCreateDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\DriverCreateDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T06:06:04.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "ConfirmEmailDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\ConfirmEmailDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\ConfirmEmailDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\ConfirmEmailDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\ConfirmEmailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T07:55:08.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "DriverUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\DriverUpdateDto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\DTOs\\DriverUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\DTOs\\DriverUpdateDto.cs",
+              "RelativeToolTip": "YardManagementSystem\\DTOs\\DriverUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T06:07:56.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "20251226124721_FixVehicleDriverFK.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20251226124721_FixVehicleDriverFK.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20251226124721_FixVehicleDriverFK.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20251226124721_FixVehicleDriverFK.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20251226124721_FixVehicleDriverFK.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:47:21.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "20251226125939_AddVehiclePhoto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20251226125939_AddVehiclePhoto.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20251226125939_AddVehiclePhoto.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20251226125939_AddVehiclePhoto.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20251226125939_AddVehiclePhoto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:59:39.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "20251225061442_AddDriversTable.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20251225061442_AddDriversTable.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20251225061442_AddDriversTable.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20251225061442_AddDriversTable.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20251225061442_AddDriversTable.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T06:14:43.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "20251221155524_AddDrivers.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20251221155524_AddDrivers.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20251221155524_AddDrivers.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20251221155524_AddDrivers.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20251221155524_AddDrivers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T15:55:25.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "20251217123028_AddEmailVerificationFields.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20251217123028_AddEmailVerificationFields.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20251217123028_AddEmailVerificationFields.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20251217123028_AddEmailVerificationFields.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20251217123028_AddEmailVerificationFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:30:28.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "20251216074251_AddEmailOtpFields.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20251216074251_AddEmailOtpFields.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20251216074251_AddEmailOtpFields.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20251216074251_AddEmailOtpFields.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20251216074251_AddEmailOtpFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T07:42:51.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "20251215141700_IdentityInit.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20251215141700_IdentityInit.cs",
+              "RelativeDocumentMoniker": "YardManagementSystem\\Migrations\\20251215141700_IdentityInit.cs",
+              "ToolTip": "C:\\Users\\Acer\\YMS\\YardManagementSystem\\YardManagementSystem\\Migrations\\20251215141700_IdentityInit.cs",
+              "RelativeToolTip": "YardManagementSystem\\Migrations\\20251215141700_IdentityInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T14:17:00.911Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

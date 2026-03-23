@@ -1,0 +1,208 @@
+.yms-assistant-wrap {
+  position: fixed;
+  right: 18px;
+  bottom: 18px;
+  z-index: 1200;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 10px;
+}
+
+.yms-assistant-panel {
+  width: 320px;
+  max-width: calc(100vw - 24px);
+  height: 520px;
+  border-radius: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  background: linear-gradient(180deg, rgba(14, 21, 38, 0.95), rgba(10, 16, 30, 0.94));
+  box-shadow: 0 20px 44px rgba(0, 0, 0, 0.35);
+  backdrop-filter: blur(8px);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.yms-assistant-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.yms-assistant-title {
+  color: #f6f9ff;
+  font-size: 15px;
+  font-weight: 800;
+}
+
+.yms-assistant-close {
+  width: 28px;
+  height: 28px;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.08);
+  color: #e7eeff;
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+}
+
+.yms-assistant-chat {
+  flex: 1;
+  padding: 12px;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+}
+
+.yms-assistant-msg {
+  max-width: 88%;
+  padding: 9px 11px;
+  border-radius: 12px;
+  font-size: 12.5px;
+  line-height: 1.35;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.yms-assistant-msg.assistant {
+  align-self: flex-start;
+  background: rgba(255, 255, 255, 0.08);
+  color: #ecf2ff;
+}
+
+.yms-assistant-msg.user {
+  align-self: flex-end;
+  background: rgba(14, 167, 102, 0.27);
+  border-color: rgba(17, 214, 131, 0.45);
+  color: #dbffee;
+}
+
+.yms-assistant-prompts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin-top: 2px;
+}
+
+.yms-assistant-chip {
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  background: rgba(255, 255, 255, 0.1);
+  color: #dce9ff;
+  cursor: pointer;
+  padding: 6px 10px;
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.yms-assistant-chip:disabled {
+  opacity: 0.65;
+  cursor: default;
+}
+
+.yms-assistant-input-row {
+  display: flex;
+  gap: 8px;
+  padding: 10px;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.yms-assistant-input-row input {
+  flex: 1;
+  height: 36px;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  background: rgba(7, 11, 21, 0.72);
+  color: #edf4ff;
+  padding: 0 10px;
+  outline: none;
+}
+
+.yms-assistant-input-row input::placeholder {
+  color: rgba(226, 237, 255, 0.7);
+}
+
+.yms-assistant-input-row button {
+  height: 36px;
+  border: 1px solid rgba(17, 214, 131, 0.5);
+  background: rgba(14, 167, 102, 0.35);
+  color: #defee9;
+  border-radius: 10px;
+  padding: 0 10px;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.yms-assistant-input-row button:disabled {
+  opacity: 0.65;
+  cursor: default;
+}
+
+.yms-assistant-fab {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  border: 0;
+  background: radial-gradient(circle at 30% 30%, #22dd85, #16a45f 68%, #0f7d49);
+  color: #f4fffa;
+  box-shadow: 0 12px 24px rgba(7, 81, 46, 0.5);
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+}
+
+body[data-theme="light"] .yms-assistant-panel {
+  background: linear-gradient(180deg, rgba(242, 247, 255, 0.98), rgba(236, 243, 252, 0.97));
+  border-color: rgba(15, 23, 42, 0.14);
+}
+
+body[data-theme="light"] .yms-assistant-title,
+body[data-theme="light"] .yms-assistant-msg.assistant,
+body[data-theme="light"] .yms-assistant-chip {
+  color: #0f172a;
+}
+
+body[data-theme="light"] .yms-assistant-msg.assistant {
+  background: rgba(15, 23, 42, 0.05);
+  border-color: rgba(15, 23, 42, 0.12);
+}
+
+body[data-theme="light"] .yms-assistant-close {
+  color: #0f172a;
+  background: rgba(15, 23, 42, 0.05);
+  border-color: rgba(15, 23, 42, 0.12);
+}
+
+body[data-theme="light"] .yms-assistant-chip {
+  background: rgba(15, 23, 42, 0.05);
+  border-color: rgba(15, 23, 42, 0.13);
+}
+
+body[data-theme="light"] .yms-assistant-input-row input {
+  background: #ffffff;
+  border-color: rgba(15, 23, 42, 0.15);
+  color: #0f172a;
+}
+
+body[data-theme="light"] .yms-assistant-input-row input::placeholder {
+  color: rgba(15, 23, 42, 0.55);
+}
+
+@media (max-width: 640px) {
+  .yms-assistant-wrap {
+    right: 10px;
+    bottom: 10px;
+  }
+
+  .yms-assistant-panel {
+    width: min(360px, calc(100vw - 20px));
+    height: min(78vh, 520px);
+  }
+}

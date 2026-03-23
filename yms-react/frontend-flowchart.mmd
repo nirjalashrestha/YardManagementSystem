@@ -1,0 +1,65 @@
+flowchart TD
+    A["App Start"] --> B["/"]
+    B --> C["Redirect to /login"]
+
+    C --> D{"Login submit"}
+    D -->|Invalid input / auth error| C
+    D -->|Success| E["Save token + roleKey in localStorage"]
+
+    E --> F{"roleKey == GATE_SECURITY?"}
+    F -->|Yes| G["/dashboard/gate-activity"]
+    F -->|No| H["/dashboard"]
+
+    H --> I{"Dashboard token check"}
+    G --> I
+    I -->|No token| C
+    I -->|Has token| J{"Dashboard index redirect"}
+
+    J -->|GATE_SECURITY| G
+    J -->|ADMIN/YARD_MANAGER/VIEW_ONLY| K["DashboardHome"]
+    J -->|Others| L["/dashboard/yardmap"]
+
+    L --> M{"RequireRole allowed?"}
+    M -->|No| H
+    M -->|Yes| N["Render page"]
+
+    H --> O["/dashboard/yardmap"]
+    H --> P["/dashboard/vehicles"]
+    H --> Q["/dashboard/gate-activity"]
+    H --> R["/dashboard/yard-move"]
+    H --> S["/dashboard/yard-check"]
+    H --> T["/dashboard/docks"]
+    H --> U["/dashboard/parking"]
+    H --> V["/dashboard/reports"]
+    H --> W["/dashboard/reports-user-role"]
+    H --> X["/dashboard/inspection"]
+    H --> Y["/dashboard/admin/add-users"]
+    H --> Z["/dashboard/gate-security"]
+    H --> AA["/dashboard/manage-* (master data)"]
+    H --> AB["/dashboard/settings"]
+    H --> AC["/dashboard/settings/profile/edit"]
+    H --> AD["/dashboard/settings/change-password"]
+
+    O --> M
+    P --> M
+    Q --> M
+    R --> M
+    S --> M
+    T --> M
+    U --> M
+    V --> M
+    W --> M
+    X --> M
+    Y --> M
+    Z --> M
+    AA --> M
+
+    AB --> N
+    AC --> N
+    AD --> N
+
+    N --> AE["User interacts with page"]
+    AE --> AF{"Logout clicked?"}
+    AF -->|Yes| AG["Clear token/role from localStorage"]
+    AG --> C
+    AF -->|No| H

@@ -1,0 +1,6 @@
+@YardManagementSystem_HostAddress = http://localhost:5100
+
+GET {{YardManagementSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

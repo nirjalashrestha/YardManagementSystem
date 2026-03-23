@@ -1,0 +1,711 @@
+.rp-page {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.rp-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 14px 16px;
+  border-radius: 14px;
+}
+
+.rp-sub {
+  margin: 4px 0 0;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.rp-snapshot {
+  margin-top: 8px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  font-size: 12px;
+  color: var(--muted);
+  flex-wrap: wrap;
+}
+
+.rp-snapshotBtn {
+  height: 28px;
+  padding: 0 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(148, 163, 184, 0.35);
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.rp-snapshotBtnUsers {
+  height: auto;
+  min-height: 34px;
+  padding: 6px 10px;
+  border-radius: 12px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  line-height: 1.15;
+}
+
+.rp-snapshotBtnMeta {
+  font-size: 10px;
+  opacity: 0.9;
+  margin-top: 2px;
+  font-weight: 500;
+}
+
+.rp-snapshotBtnTitle {
+  color: var(--text);
+  border-color: rgba(140, 210, 255, 0.45);
+  background: rgba(140, 210, 255, 0.16);
+}
+
+.rp-snapshotBtnClick {
+  cursor: pointer;
+  transition: transform 0.15s ease, border-color 0.15s ease;
+}
+
+.rp-snapshotBtnClick:hover {
+  transform: translateY(-1px);
+  border-color: rgba(140, 210, 255, 0.45);
+}
+
+body[data-theme="light"] .rp-snapshotBtn {
+  background: #ffffff;
+  border-color: rgba(15, 23, 42, 0.14);
+  color: rgba(15, 23, 42, 0.75);
+}
+
+body[data-theme="light"] .rp-snapshotBtnTitle {
+  color: #0f172a;
+  border-color: rgba(37, 99, 235, 0.35);
+  background: rgba(37, 99, 235, 0.1);
+}
+
+.rp-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 6px;
+  margin-left: auto;
+  justify-content: flex-end;
+}
+
+.rp-topControls {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.rp-topControls .dm-btn {
+  height: 38px;
+  width: 38px;
+  min-width: 38px;
+  padding: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.rp-dateRange {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.rp-dateRange span {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.rp-dateRange input {
+  height: 30px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.12);
+  color: var(--text);
+  padding: 0 8px;
+  font-size: 12px;
+  outline: none;
+}
+
+.rp-dateRange input:focus {
+  border-color: rgba(140, 210, 255, 0.5);
+  box-shadow: 0 0 0 2px rgba(140, 210, 255, 0.16);
+}
+
+body[data-theme="light"] .rp-dateRange input {
+  background: #ffffff;
+  border-color: rgba(15, 23, 42, 0.14);
+  color: #0f172a;
+}
+
+.rp-facilitySelect {
+  height: 38px;
+  min-width: 190px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.12);
+  color: var(--text);
+  padding: 0 10px;
+  outline: none;
+}
+
+.rp-facilitySelect:focus {
+  border-color: rgba(140, 210, 255, 0.5);
+  box-shadow: 0 0 0 3px rgba(140, 210, 255, 0.16);
+}
+
+.rp-facilitySelect option {
+  background: #ffffff;
+  color: #0f172a;
+}
+
+body[data-theme="dark"] .rp-facilitySelect {
+  border-color: rgba(255, 255, 255, 0.2);
+  color: #eef2ff;
+}
+
+body[data-theme="light"] .rp-facilitySelect {
+  background: #ffffff;
+  border-color: rgba(15, 23, 42, 0.14);
+  color: #0f172a;
+}
+
+.rp-kpiGrid {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: 14px;
+  align-items: stretch;
+}
+
+.rp-kpiGrid .rp-kpiCard {
+  width: 150px;
+  max-width: none;
+  margin: 0;
+  min-height: 58px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 14px;
+  border-radius: 16px;
+  border: 1px solid rgba(148, 163, 184, 0.28);
+  background: rgba(255, 255, 255, 0.98);
+  box-shadow: 0 6px 16px rgba(15, 23, 42, 0.08);
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+}
+
+.rp-kpiIcon {
+  width: 30px;
+  height: 30px;
+  border-radius: 10px;
+  display: grid;
+  place-items: center;
+  flex: 0 0 auto;
+  border: 1px solid var(--border);
+  background: rgba(148, 163, 184, 0.14);
+  color: var(--text);
+}
+
+.rp-kpiIcon svg {
+  width: 22px;
+  height: 22px;
+}
+
+.rp-kpiInfo {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.rp-kpiLabel {
+  font-size: 12px;
+  color: var(--muted);
+  line-height: 1.2;
+}
+
+.rp-kpiValue {
+  font-size: 28px;
+  line-height: 1;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin-bottom: 4px;
+}
+
+body[data-theme="dark"] .rp-kpiGrid .rp-kpiCard {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.22);
+  box-shadow: 0 8px 22px rgba(2, 6, 23, 0.32);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.rp-chartGrid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 14px;
+  row-gap: 18px;
+  align-items: start;
+}
+
+.rp-chartGrid .rp-chartCard {
+  width: 100%;
+  max-width: none;
+  min-width: 0;
+  margin: 0;
+  box-sizing: border-box;
+  padding: 12px;
+  overflow: hidden;
+}
+
+.rp-chartHead {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 8px;
+  flex-wrap: nowrap;
+}
+
+.rp-chartHead h3 {
+  margin: 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 15px;
+}
+
+.rp-chartHead span {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.rp-chartHeadActions {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: auto;
+  flex-wrap: nowrap;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.rp-chartFooter {
+  margin-top: 8px;
+  display: flex;
+}
+
+.rp-chartFooterEnd {
+  justify-content: flex-end;
+  margin-top: 2px;
+}
+
+.rp-chartBody {
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  height: 280px;
+}
+
+.rp-modalOverlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(2, 6, 23, 0.52);
+  display: grid;
+  place-items: center;
+  z-index: 1200;
+  padding: 12px;
+}
+
+.rp-modal {
+  width: min(1150px, 96vw);
+  max-height: 90vh;
+  overflow: auto;
+  border-radius: 14px;
+  padding: 14px;
+}
+
+body[data-theme="dark"] .rp-modal {
+  background: rgba(18, 20, 30, 0.96);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.55);
+  color: rgba(255, 255, 255, 0.92);
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+}
+
+body[data-theme="dark"] .rp-modalOverlay {
+  background: rgba(0, 0, 0, 0.65);
+}
+
+.rp-modalHead {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.rp-modalHead h3 {
+  margin: 0;
+}
+
+body[data-theme="dark"] .rp-modalHead h3 {
+  color: #f2f6ff;
+}
+
+.rp-modalActions {
+  display: flex;
+  gap: 8px;
+}
+
+.rp-preview {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.rp-previewToolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.rp-switchTabs {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.rp-switchBtn {
+  min-height: 38px;
+  padding: 0 18px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text);
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.rp-switchBtn.is-active {
+  background: #eaf2ff;
+  border-color: #bcd5ff;
+  color: #0a1a3d;
+}
+
+.rp-previewFilters {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
+.rp-previewFilters input[type="date"] {
+  min-height: 38px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 0 10px;
+  background: var(--card);
+  color: var(--text);
+}
+
+.rp-kpis {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.rp-kpi {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 10px;
+}
+
+body[data-theme="dark"] .rp-kpi {
+  background: rgba(0, 0, 0, 0.28);
+  border-color: rgba(255, 255, 255, 0.12);
+}
+
+.rp-previewGrid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 12px;
+}
+
+.rp-previewCard {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 10px;
+}
+
+body[data-theme="dark"] .rp-previewCard {
+  background: rgba(0, 0, 0, 0.24);
+  border-color: rgba(255, 255, 255, 0.12);
+}
+
+.rp-previewCard h4 {
+  margin: 0 0 8px;
+  font-size: 14px;
+}
+
+body[data-theme="dark"] .rp-previewCard h4 {
+  color: #e9eefb;
+}
+
+body[data-theme="dark"] .rp-modal .adm-table {
+  background: transparent;
+  color: #e5ebf8;
+}
+
+body[data-theme="dark"] .rp-modal .adm-table thead th {
+  background: rgba(18, 22, 30, 0.92);
+  color: rgba(255, 255, 255, 0.84);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+body[data-theme="dark"] .rp-modal .adm-table tbody td {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+body[data-theme="dark"] .rp-modal .dm-btn {
+  border-radius: 10px;
+  font-weight: 700;
+}
+
+body[data-theme="dark"] .rp-switchBtn {
+  background: rgba(255, 255, 255, 0.02);
+  border-color: rgba(255, 255, 255, 0.2);
+  color: #eaf0ff;
+}
+
+body[data-theme="dark"] .rp-switchBtn.is-active {
+  background: rgba(59, 130, 246, 0.3);
+  border-color: rgba(147, 197, 253, 0.45);
+  color: #eaf2ff;
+}
+
+body[data-theme="dark"] .rp-previewFilters input[type="date"] {
+  border-color: rgba(255, 255, 255, 0.2);
+  background: rgba(0, 0, 0, 0.2);
+  color: #e5ebf8;
+}
+
+body[data-theme="dark"] .rp-modal .rp-modalActions .dm-btnGhost:first-child {
+  background: rgba(34, 197, 94, 0.2);
+  border: 1px solid rgba(34, 197, 94, 0.35);
+  color: rgba(232, 255, 241, 0.95);
+}
+
+body[data-theme="dark"] .rp-modal .rp-modalActions .dm-btnGhost:last-child {
+  background: rgba(239, 68, 68, 0.2);
+  border: 1px solid rgba(239, 68, 68, 0.4);
+  color: rgba(255, 230, 230, 0.95);
+}
+
+body[data-theme="dark"] .rp-modal .rp-modalActions .dm-btnGhost:first-child:hover {
+  background: rgba(34, 197, 94, 0.28);
+}
+
+body[data-theme="dark"] .rp-modal .rp-modalActions .dm-btnGhost:last-child:hover {
+  background: rgba(239, 68, 68, 0.28);
+}
+
+body[data-theme="light"] .rp-modalOverlay {
+  background: rgba(15, 23, 42, 0.35);
+}
+
+body[data-theme="light"] .rp-modal {
+  background: #ffffff;
+  border: 1px solid rgba(15, 23, 42, 0.12);
+  box-shadow: 0 24px 70px rgba(15, 23, 42, 0.18);
+  color: #0f172a;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+}
+
+body[data-theme="light"] .rp-kpi {
+  background: #ffffff;
+  border-color: rgba(15, 23, 42, 0.12);
+}
+
+body[data-theme="light"] .rp-previewCard {
+  background: #ffffff;
+  border-color: rgba(15, 23, 42, 0.12);
+}
+
+body[data-theme="light"] .rp-previewCard h4,
+body[data-theme="light"] .rp-modalHead h3 {
+  color: #0f172a;
+}
+
+body[data-theme="light"] .rp-switchBtn {
+  background: #fff;
+  border-color: rgba(15, 23, 42, 0.15);
+  color: #0f172a;
+}
+
+body[data-theme="light"] .rp-previewFilters input[type="date"] {
+  border-color: rgba(15, 23, 42, 0.15);
+  background: #fff;
+  color: #0f172a;
+}
+
+body[data-theme="light"] .rp-modal .adm-table {
+  background: #ffffff;
+  color: #0f172a;
+}
+
+body[data-theme="light"] .rp-modal .adm-table thead th {
+  background: rgba(15, 23, 42, 0.04);
+  color: rgba(15, 23, 42, 0.76);
+  border-bottom: 1px solid rgba(15, 23, 42, 0.1);
+}
+
+body[data-theme="light"] .rp-modal .adm-table tbody td {
+  border-bottom: 1px solid rgba(15, 23, 42, 0.08);
+}
+
+.rp-loadMoreWrap {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 8px;
+}
+
+.rp-usersChartWrap {
+  display: flex;
+  justify-content: center;
+}
+
+.rp-usersChartCard {
+  width: min(740px, 100%);
+  max-width: 740px;
+}
+
+.rp-userTableWrap {
+  overflow-x: auto;
+}
+
+@media (max-width: 1200px) {
+  .rp-kpiGrid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .rp-kpis {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 900px) {
+  .rp-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .rp-chartGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 680px) {
+  .rp-kpiGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px;
+  }
+
+  .rp-kpiCard {
+    min-height: 76px;
+    padding: 10px;
+    gap: 8px;
+  }
+
+  .rp-kpiIcon {
+    width: 34px;
+    height: 34px;
+  }
+
+  .rp-kpiIcon svg {
+    width: 17px;
+    height: 17px;
+  }
+
+  .rp-kpiValue {
+    font-size: 30px;
+  }
+
+  .rp-kpiLabel {
+    font-size: 12px;
+  }
+  .rp-kpis {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .rp-actions {
+    width: 100%;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
+
+  .rp-topControls {
+    width: auto;
+  }
+
+  .rp-snapshot {
+    gap: 10px;
+    font-size: 11px;
+  }
+
+  .rp-snapshotBtn {
+    height: 26px;
+    padding: 0 9px;
+    font-size: 11px;
+  }
+
+  .rp-snapshotBtnUsers {
+    min-height: 30px;
+    padding: 5px 8px;
+  }
+
+  .rp-snapshotBtnMeta {
+    font-size: 9px;
+  }
+
+  .rp-facilitySelect {
+    min-width: 170px;
+  }
+
+  .rp-previewToolbar {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .rp-previewFilters {
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
+}
+
+@media print {
+  .rp-modalOverlay {
+    position: static;
+    background: #fff !important;
+    padding: 0;
+  }
+  .rp-modal {
+    width: 100%;
+    max-height: none;
+    overflow: visible;
+    border: none !important;
+    box-shadow: none !important;
+    background: #fff !important;
+    color: #111 !important;
+  }
+  .rp-modalActions {
+    display: none !important;
+  }
+}
