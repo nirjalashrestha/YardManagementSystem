@@ -1,0 +1,1 @@
+The Yard Management System (YMS) is a web application that manages vehicle arrivals, departures, parking, dock allocation, and yard movements. It improves efficiency by providing real-time tracking, inspections, and facility-based control.
