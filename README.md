@@ -109,6 +109,7 @@ http://localhost:5100
 Swagger is available in development at:
 
 https://localhost:7096/swagger
+
 4. Run the frontend
 Open a second terminal:
 ```text
